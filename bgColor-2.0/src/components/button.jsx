@@ -1,3 +1,4 @@
+//button
 function Btn ({color,setColor}){
       return (
         <>
